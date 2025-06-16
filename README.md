@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **Kunal Ghosh Roy** - *Data Science Expert: Independent Consultant* - [https://github.com/kunalgr/](https://github.com/kunalgr/)
-- **Atree Bandyopadhyay** - *Subject Matter Expert: SRK India*
+- **Atree Bandyopadhyay** - *Subject Matter Expert and Data Science (Team Lead): SRK India*
 
 ## 🙏 Acknowledgments
 
